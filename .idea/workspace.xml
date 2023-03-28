@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c981974d-71c4-4d5f-b300-8033637b3131" name="Changes" comment="" />
+    <list default="true" id="ed7ee509-f760-4762-aee5-473f5ffc964d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lv 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lv2-1 main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lv2-1 main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +19,10 @@
       </list>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2NK1G5jbou7kliXMTIuHKUNY5cu" />
+  <component name="ProjectId" id="2Ndk2Rahsv18laDJhwqQoc5f5pQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,11 +36,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c981974d-71c4-4d5f-b300-8033637b3131" name="Changes" comment="" />
-      <created>1679397860418</created>
+      <changelist id="ed7ee509-f760-4762-aee5-473f5ffc964d" name="Changes" comment="" />
+      <created>1680001138852</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679397860418</updated>
+      <updated>1680001138852</updated>
     </task>
     <servers />
   </component>

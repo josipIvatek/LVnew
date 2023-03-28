@@ -1,5 +1,5 @@
-from datetime import date
 
+from datetime import date
 kolegij = {}
 
 kolegij['ime']=input('Unesite ime kolegija: ').upper()
