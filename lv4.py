@@ -1,10 +1,12 @@
 from kolegij import unos_kolegija, ispis_kolegija
 from ispit import unos_ispita, ispis_ispita
 from student import unos_studenta, ispis_studenta
-
+from utilities import unos_intervala
 kolegiji = []
 ispiti = []
 studenti = []
+
+broj = unos_intervala(1,10)
 
 broj_kolegija = int(input('Unesite broj kolegija: '))
 for i in range(1, broj_kolegija+1):
