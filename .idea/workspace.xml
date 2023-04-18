@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed7ee509-f760-4762-aee5-473f5ffc964d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ispit/ispit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kolegij/kolegij.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ispit/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ispit/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ispit/ispis_ispita.py" beforeDir="false" afterPath="$PROJECT_DIR$/ispit/ispis_ispita.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ispit/unos_ispita.py" beforeDir="false" afterPath="$PROJECT_DIR$/ispit/unos_ispita.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kolegij/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolegij/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kolegij/ispis_kolegija.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolegij/ispis_kolegija.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kolegij/upis_kolegija.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolegij/upis_kolegija.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/ispis_studenta.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/ispis_studenta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/unos_studenta.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/unos_studenta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
