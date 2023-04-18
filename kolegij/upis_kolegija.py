@@ -1,7 +1,7 @@
+from .kolegij import Kolegij
+
 def unos_kolegija(redni_broj):
-    kolegij={}
+    ime = input(f"Unesite ime {redni_broj}.  kolegija: ").upper()
+    ects = int(input(f"Unesite ECTS bodove za {redni_broj}. kolegij: "))
 
-    kolegij['ime'] = input(f"Unesite ime {redni_broj}.  kolegija: ").upper()
-    kolegij['ects'] = int(input(f"Unesite ECTS bodove za {redni_broj}. kolegij: "))
-
-    return kolegij
+    return Kolegij(ime, ects)
