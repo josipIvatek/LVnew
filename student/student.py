@@ -10,5 +10,3 @@ class Student(ABC):
     @abstractmethod
     def ispis(self):
         pass
-
-

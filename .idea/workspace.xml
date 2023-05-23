@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed7ee509-f760-4762-aee5-473f5ffc964d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/student/izracun_skolarine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student/redovni_student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student/vanredni_student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/unos_studenta.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/unos_studenta.py" afterDir="false" />
-    </list>
+    <list default="true" id="d5244d5a-4f25-45ae-bd1c-f741005a1632" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,34 +17,70 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Ndk2Rahsv18laDJhwqQoc5f5pQ" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2MBpj2P4rWEyz55GbdzaYFPHBid" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zvoni\Desktop\Objektno\Vježbe\Programi\8. Enumeratori i iznimke" />
+      <recent name="C:\Users\zvoni\Desktop\Objektno\Vježbe\Programi\5. Kontrola toka i while petlja" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zvoni\Desktop\Objektno\Vježbe\Programi\4. Organizacija programskog koda\student" />
+      <recent name="C:\Users\zvoni\Desktop\Objektno\Vježbe\Programi\4. Organizacija programskog koda" />
+      <recent name="C:\Users\zvoni\Desktop\Objektno\Vježbe\Programi\4. Organizacija programskog koda\kolegij" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="4. vježba" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed7ee509-f760-4762-aee5-473f5ffc964d" name="Changes" comment="" />
-      <created>1680001138852</created>
+      <changelist id="d5244d5a-4f25-45ae-bd1c-f741005a1632" name="Changes" comment="" />
+      <created>1677250962167</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680001138852</updated>
+      <updated>1677250962167</updated>
     </task>
     <servers />
   </component>

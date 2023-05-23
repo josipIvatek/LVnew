@@ -1,7 +1,7 @@
 class Kolegij:
-    def __init__(self, ime, ects):
+    def __init__(self, ime, ECTS):
         self.__ime = ime
-        self.__ects = ects
+        self.__ECTS = ECTS
 
     @property
     def ime(self):
@@ -12,11 +12,12 @@ class Kolegij:
         self.__ime = ime
 
     @property
-    def ects(self):
-        return self.__ects
-    @ects.setter
-    def ects(self, ects):
-        self.__ects = ects
+    def ECTS(self):
+        return self.__ECTS
+
+    @ECTS.setter
+    def ECTS(self, ECTS):
+        self.__ECTS = ECTS
 
     def ispis(self):
-        print(f"\tKolegij {self.__ime} nosi {self.__ects} ECTS bodova.")
+        print(f"\tKolegij {self.ime} nosi {self.ECTS} ECTS bodova")
